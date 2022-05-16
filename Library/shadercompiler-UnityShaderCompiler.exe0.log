@@ -1,0 +1,32 @@
+Base path: 'F:/Unity201949/Unity/Editor/Data', plugins path 'F:/Unity201949/Unity/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: preprocess
+  insize=6822 outsize=4423 ok=1
+Cmd: preprocess
+  insize=6822 outsize=4423 ok=1
+Cmd: preprocess
+  insize=6819 outsize=4420 ok=1
+Cmd: preprocess
+  insize=6827 outsize=4428 ok=1
+Cmd: preprocess
+  insize=6827 outsize=4428 ok=1
+Cmd: preprocess
+  insize=6823 outsize=4424 ok=1
+Cmd: preprocess
+  insize=6825 outsize=4426 ok=1
+Cmd: preprocess
+  insize=6791 outsize=4426 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2811 outsize=710 kw=UNITY_PASS_FORWARDBASE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2811 outsize=594 kw=UNITY_PASS_FORWARDBASE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: preprocess
+  insize=6789 outsize=4424 ok=1
+Cmd: preprocess
+  insize=6823 outsize=4424 ok=1
+Cmd: preprocess
+  insize=6789 outsize=4424 ok=1
+Cmd: preprocess
+  insize=6820 outsize=4421 ok=1
+
+Quitting shader compiler process
